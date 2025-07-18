@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://aminkhammar.github.io/Betawaves_cms",
+  "homepage": "https://aminkhammar.github.io/Betawaves_Front_Back",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
