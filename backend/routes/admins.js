@@ -1,5 +1,5 @@
 import express from 'express';
-import db from '../../db.js';
+import db from '../db.js';
 import bcrypt from 'bcrypt';
 import { v4 as uuidv4 } from 'uuid';
 
